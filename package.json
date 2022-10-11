@@ -34,7 +34,7 @@
     "@octokit/core": "^4.0.5",
     "@octokit/rest": "^19.0.4",
     "@shopify/admin-ui-extensions": "1.0.1",
-    "@shopify/admin-ui-extensions-react": "1.0.1",
+    "@shopify/admin-ui-extensions-react": "1.0.4",
     "@shopify/checkout-ui-extensions-react": "0.18.0",
     "@shopify/customer-account-ui-extensions-react": "^0.0.8",
     "@shopify/eslint-plugin": "^41.3.0",
