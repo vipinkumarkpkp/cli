@@ -24,7 +24,7 @@
     "refresh-templates": "nx run-many --target=refresh-templates --all --skip-nx-cache"
   },
   "devDependencies": {
-    "@apollo/client": "^3.4.8",
+    "@apollo/client": "^3.7.0",
     "@bugsnag/source-maps": "^2.3.0",
     "@changesets/cli": "^2.22.0",
     "@nrwl/eslint-plugin-nx": "^14.0.5",
