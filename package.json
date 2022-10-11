@@ -28,7 +28,7 @@
     "@bugsnag/source-maps": "^2.3.0",
     "@changesets/cli": "^2.22.0",
     "@nrwl/eslint-plugin-nx": "^14.0.5",
-    "@nrwl/js": "^14.0.5",
+    "@nrwl/js": "^14.8.3",
     "@nrwl/tao": "^14.0.1",
     "@nrwl/workspace": "^14.5.10",
     "@octokit/core": "^4.0.5",
