@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@oclif/core": "1.9.2",
-    "@shopify/hydrogen": "^0.26.0",
+    "@shopify/hydrogen": "^0.27.2",
     "@shopify/mini-oxygen": "^0.2.0",
     "@types/prettier": "^2.6.3",
     "prettier": "^2.6.1",
