@@ -2325,10 +2325,10 @@
     jest-matcher-utils "^26.6.2"
     react-reconciler "^0.26.2"
 
-"@shopify/retail-ui-extensions@0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@shopify/retail-ui-extensions/-/retail-ui-extensions-0.10.0.tgz#a43193d6fc9fb92a5f33fd0b711327bd44ca6de7"
-  integrity sha512-473t82QILBr1cpmYeMolRQmptxnpNNUVOYdyZUVSEQ2J5tjX/jqEaTi0JArArYS8GF0Dqm5x2K1SIK/khTGB7Q==
+"@shopify/retail-ui-extensions@0.27.0":
+  version "0.27.0"
+  resolved "https://registry.yarnpkg.com/@shopify/retail-ui-extensions/-/retail-ui-extensions-0.27.0.tgz#a86c46f29d210f71dedc8244618f00e67501c9f0"
+  integrity sha512-ZZ6+NMAZxuJm7ZT309m8TH2RJ+jv5QdgXKc0FgJOayhSdalCmfxoMJBZ2ICMOAbR/Ondahk0CvSKLu24PRm/ug==
   dependencies:
     "@remote-ui/core" "^2.1.6"
 
