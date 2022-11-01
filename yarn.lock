@@ -10940,9 +10940,9 @@ rimraf@^2.6.3:
     glob "^7.1.3"
 
 rollup@^2.59.0:
-  version "2.79.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.79.0.tgz#9177992c9f09eb58c5e56cbfa641607a12b57ce2"
-  integrity sha512-x4KsrCgwQ7ZJPcFA/SUu6QVcYlO7uRLfLAy0DSA4NS2eG8japdbpM50ToH7z4iObodRYOJ0soneF0iaQRJ6zhA==
+  version "2.79.1"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.79.1.tgz#bedee8faef7c9f93a2647ac0108748f497f081c7"
+  integrity sha512-uKxbd0IhMZOhjAiD5oAFp7BqvkA4Dv47qpOCtaNvng4HBwdbWtdOh8f5nZNuk2rp51PMGk3bzfWu5oayNEuYnw==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -12631,10 +12631,10 @@ vite-plugin-inspect@^0.3.6:
     sirv "^2.0.2"
     ufo "^0.7.10"
 
-vite-tsconfig-paths@^3.3.14:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/vite-tsconfig-paths/-/vite-tsconfig-paths-3.5.0.tgz#bfdf93f8072eff04125112ea9602fd50ae8cdad9"
-  integrity sha512-NKIubr7gXgh/3uniQaOytSg+aKWPrjquP6anAy+zCWEn6h9fB8z2/qdlfQrTgZWaXJ2pHVlllrSdRZltHn9P4g==
+vite-tsconfig-paths@^3.5.2:
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/vite-tsconfig-paths/-/vite-tsconfig-paths-3.5.2.tgz#fd3232f93c426311d7e0d581187d8b63fff55fbc"
+  integrity sha512-xJMgHA2oJ28QCG2f+hXrcqzo7IttrSRK4A//Tp94CfuX5eetOx33qiwXHUdi3FwkHP2ocpxHuvE45Ix67gwEmQ==
   dependencies:
     debug "^4.1.1"
     globrex "^0.1.2"
