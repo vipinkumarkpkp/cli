@@ -58,7 +58,7 @@
     "@shopify/shopify-cli-extensions": "3.11.0",
     "http-proxy": "^1.18.1",
     "diff": "^5.1.0",
-    "esbuild": "0.15.7"
+    "esbuild": "0.15.12"
   },
   "repository": {
     "type": "git",
