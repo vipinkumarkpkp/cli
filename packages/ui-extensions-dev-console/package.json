@@ -41,7 +41,7 @@
     "sass": "^1.42.1",
     "ts-node": "^10.2.1",
     "vite": "^2.9.13",
-    "vite-tsconfig-paths": "^3.3.14",
+    "vite-tsconfig-paths": "^3.6.0",
     "vitest": "^0.22.1"
   }
 }
