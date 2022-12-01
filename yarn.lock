@@ -2367,10 +2367,10 @@
   resolved "https://registry.yarnpkg.com/@shopify/useful-types/-/useful-types-4.0.3.tgz#06b5ba0a46e0879ae57edeaf93148f2ec151c9b7"
   integrity sha512-vT48uKFSTfI3HPqtNI3lahWRDncFuuzBVfj2eUxEpQO//3Sn+IIo4zRPT9W4EHBiVWJyBeW5CTzVtvGhQma4EA==
 
-"@shopify/web-pixels-extension@0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@shopify/web-pixels-extension/-/web-pixels-extension-0.1.4.tgz#0e1af76a1d2db9c59bb07320b7844984450c8057"
-  integrity sha512-r1RKI4BsyYKuNtNoAlBZoQaMgOAra5WpzkQ1EQnuUKV9df9LFBQu30oZumt9iAUzMYeX8v80uvUoYvZYH2DcDg==
+"@shopify/web-pixels-extension@0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@shopify/web-pixels-extension/-/web-pixels-extension-0.3.0.tgz#3a9af1da44c33aba9f9840a62c78859f491babca"
+  integrity sha512-CtNOPH9SvTDA/MCVAr5YNww542cNwwvV5A53fTplmZ956ImW0T7gxY7I8x4GITpBCtFaBsbkn/SEgh74YLcSxA==
 
 "@shopify/web-pixels-extension@^0.1.1":
   version "0.1.5"
