@@ -105,7 +105,7 @@
     "keytar": "^7.9.0",
     "kill-port-process": "^3.1.0",
     "latest-version": "^6.0.0",
-    "liquidjs": "^9.36.0",
+    "liquidjs": "^10.0.0",
     "listr2": "^4.0.5",
     "log-update": "^4.0.0",
     "md5-file": "^5.0.0",
