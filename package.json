@@ -74,7 +74,7 @@
     "patch-package": "^6.4.7",
     "pathe": "0.2.0",
     "postinstall-postinstall": "^2.1.0",
-    "prettier": "^2.6.1",
+    "prettier": "^2.8.1",
     "rimraf": "^3.0.2",
     "shx": "^0.3.3",
     "tempy": "^3.0.0",
