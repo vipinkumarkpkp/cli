@@ -52,7 +52,7 @@
     "vitest": "^0.22.1"
   },
   "dependencies": {
-    "@luckycatfactory/esbuild-graphql-loader": "3.7.0",
+    "@luckycatfactory/esbuild-graphql-loader": "3.8.1",
     "@oclif/core": "1.9.2",
     "@shopify/cli-kit": "3.11.0",
     "@shopify/shopify-cli-extensions": "3.11.0",
