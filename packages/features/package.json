@@ -11,7 +11,7 @@
   "devDependencies": {
     "fs-extra": "^10.0.0",
     "@types/cucumber": "^7.0.0",
-    "@cucumber/cucumber": "^8.2.2",
+    "@cucumber/cucumber": "^8.10.0",
     "cucumber-junit-formatter": "^0.2.2",
     "@cucumber/pretty-formatter": "1.0.0",
     "cucumber-pretty": "^6.0.1",
