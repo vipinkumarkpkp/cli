@@ -114,7 +114,7 @@
     "pathe": "0.2.0",
     "prettier": "^2.7.1",
     "semver": "^7.3.6",
-    "simple-git": "^3.5.0",
+    "simple-git": "^3.16.0",
     "source-map-support": "^0.5.21",
     "stacktracey": "^2.1.8",
     "strip-ansi": "^7.0.1",
