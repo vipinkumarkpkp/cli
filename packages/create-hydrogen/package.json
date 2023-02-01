@@ -50,7 +50,7 @@
     }
   },
   "dependencies": {
-    "@oclif/core": "1.9.2",
+    "@oclif/core": "1.26.1",
     "@shopify/cli-kit": "3.11.0",
     "download": "8.0.0"
   },
