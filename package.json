@@ -36,7 +36,7 @@
     "@shopify/admin-ui-extensions": "1.0.1",
     "@shopify/admin-ui-extensions-react": "1.0.1",
     "@shopify/checkout-ui-extensions-react": "0.18.0",
-    "@shopify/customer-account-ui-extensions-react": "^0.0.8",
+    "@shopify/customer-account-ui-extensions-react": "^0.0.29",
     "@shopify/eslint-plugin": "^41.3.0",
     "@shopify/post-purchase-ui-extensions-react": "0.13.3",
     "@shopify/retail-ui-extensions": "0.10.0",
