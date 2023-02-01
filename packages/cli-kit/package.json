@@ -71,7 +71,7 @@
     "win32"
   ],
   "dependencies": {
-    "@bugsnag/js": "^7.16.7",
+    "@bugsnag/js": "^7.20.0",
     "@iarna/toml": "^2.2.5",
     "@oclif/core": "1.9.2",
     "@types/archiver": "^5.3.1",
