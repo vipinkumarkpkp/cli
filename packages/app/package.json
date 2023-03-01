@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@types/diff": "^5.0.2",
-    "@types/http-proxy": "^1.17.9",
+    "@types/http-proxy": "^1.17.10",
     "vitest": "^0.22.1"
   },
   "dependencies": {
